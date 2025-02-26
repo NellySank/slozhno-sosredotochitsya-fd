@@ -280,6 +280,7 @@
     row-gap: 167px;
     padding-top: 178px;
     padding-bottom: 183px;
+    min-block-size: 1024px;
   }
 
   .rec-element {
@@ -377,6 +378,7 @@
   .footer {
     padding-top: 463px;
     padding-bottom: 204px;
+    min-block-size: 1024px;
   }
 
 }
@@ -391,6 +393,7 @@
     row-gap: 114px;
     padding-top: 20px;
     padding-bottom: 134px;
+    min-block-size: 768px;
   }
 
   .rec-element {
@@ -471,6 +474,6 @@
     width: 100%;
     padding-top: 319px;
     padding-bottom: 286px;
-    min-height: 768px;
+    min-block-size: 768px;
   }
 } 
