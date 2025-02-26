@@ -21,7 +21,7 @@
   grid-template-rows: 1fr min-content 1fr;
   justify-items: end;
   align-items: center;
-  min-height: 100vh;
+  block-size: 100vh;
   min-inline-size: 100%;
   min-block-size: 668px;
   padding-left: var(--padding-left);
@@ -245,7 +245,7 @@
   grid-template-rows: min-content;
   align-items: center;
   justify-content: center;
-  min-height: 100vh;
+  block-size: 100vh;
   min-block-size: 668px;
   padding-left: var(--padding-left);
   padding-right: var(--padding-right);
