@@ -21,8 +21,8 @@
   --header-menu-border-hover-color: rgb(255,0,112,0.4);
   --decorated-zone-color: var(--accent-color);
   --link-border-color: #F1B2CE;
-  --pading-left: 10px;  
-  --pading-right: 10px; 
+  --pading-left: 10px;
+  --pading-right: 10px;
 }
 
 .theme-dark .page {
