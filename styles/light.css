@@ -37,6 +37,11 @@
     --header-menu-border-color: var(--main-font-color);
     --header-menu-border-hover-color: rgb(50,49,45,0.4);
     --decorated-zone-color: var(--main-font-color);
+    --link-border-color: var(--main-font-color);
+  }
+
+  .rec-element {
+    display: none;
   }
 }
 
