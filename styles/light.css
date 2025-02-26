@@ -25,7 +25,7 @@
 
 @media (prefers-color-scheme: light) {
   :root {
-    /* Дублируем переменные светлой темы */   
+    /* Дублируем переменные светлой темы */
     --bg-image: url(../images/cover-image-light.png);
     --bg-color: #FFF1F7;
     --accent-color: #FF8DCB;
